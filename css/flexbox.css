@@ -35,4 +35,14 @@
 .contenidoPrincipal-cursos-link{
     display: flex;
     width: 23%;
+    
+}
+.videoSobre .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.videoSobre-video{
+    width: 40%;
+    height: 350px;
 }
